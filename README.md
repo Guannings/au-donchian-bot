@@ -185,6 +185,11 @@ wall clock in the exchange's timezone. The portable lesson: on an obscure,
 poorly-documented platform, the reliability engineering *is* the project.
 See [docs/BROKER_BRIDGE_NOTES.md](docs/BROKER_BRIDGE_NOTES.md).
 
+## Acknowledgments
+
+Built with AI-assisted development; all design decisions, validation, and
+final judgment are my own.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
